@@ -14,7 +14,7 @@ sys (for handling command-line arguments)
 # How to Run the Program:
 ## Running the Algorithm:
 ### Clone the repository to your local machine:
-git clone <repository_link>
+git clone https://github.com/laurencacc/EEE4334_Project1
 cd qm-algorithm
 ### Run the following command to minimize a PLA file:
 python qm.py tests/input0.pla output.pla
